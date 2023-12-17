@@ -7,6 +7,7 @@ body {
     font-family: 'Poppins', Arial, sans-serif; /* Updated font for a modern look */
     line-height: 1.6;
     color: #333; /* Standard text color for readability */
+    font-size: large;
 }
 
 /* Navbar Styles */
